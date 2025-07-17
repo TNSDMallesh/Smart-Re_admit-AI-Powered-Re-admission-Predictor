@@ -1,0 +1,20 @@
+# Classify Jupyter Notebooks correctly
+*.ipynb linguist-language=Jupyter Notebook
+*.ipynb diff=jupyternotebook
+
+# Classify Python scripts and markdown
+*.py linguist-language=Python
+*.md linguist-language=Markdown
+
+# CSV and text data files
+*.csv text
+*.txt text
+*.json text
+
+# Model files (binary)
+*.pkl binary
+*.h5 binary
+*.joblib binary
+
+# Prevent CRLF vs LF issues
+* text=auto eol=lf
