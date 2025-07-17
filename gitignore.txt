@@ -1,0 +1,32 @@
+# Ignore Python cache and temp files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+venv/
+env/
+ENV/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Model & large files (adjust as needed)
+*.h5
+*.pkl
+*.joblib
+
+# Streamlit cloud secrets
+.streamlit/secrets.toml
