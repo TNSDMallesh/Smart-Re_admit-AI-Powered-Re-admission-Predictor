@@ -14,7 +14,7 @@ Predicting patient re-admissions using AI to improve healthcare efficiency and o
 
 **Smart Re-admit** is a machine learning and deep learning-based project designed to predict whether a patient will be re-admitted to the hospital after discharge (particularly after 30 days). Leveraging Electronic Health Records (EHR), this system provides early warnings to healthcare providers for timely intervention.
 
-> 🏥 Developed as a major academic project at Sir C R Reddy College of Engineering under the mentorship of M. Ganesh Babu, Asst. Professor.
+> 🏥 Developed as a final year academic project at Sir C R Reddy College of Engineering under the mentorship of M. Ganesh Babu, Asst. Professor.
 
 ---
 
