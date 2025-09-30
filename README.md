@@ -168,8 +168,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 🤝 Acknowledgments
 
-## 🤝 Acknowledgments
-
 Special thanks to my **Gen AI & Prompt Engineering tutor – [Datavalley.ai](https://datavalley.ai)**  
 and my project guide **Mr. M. Ganesh Babu**,  
 Assistant Professor, Department of CSE,  
